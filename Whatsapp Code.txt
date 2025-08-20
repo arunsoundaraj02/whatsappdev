@@ -4,3 +4,4 @@ Whatsapp Code
 2. Chat screen code
 3. Last seen code
 4. Attachments ( Image, Audio, Video) Code
+5. Hide the Lasdt seen
